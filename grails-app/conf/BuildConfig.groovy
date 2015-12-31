@@ -17,7 +17,7 @@ grails.project.fork = [
 ]
 
 grails.project.repos.default = "myRepo"
-grails.project.repos.myRepo.url = "http://localhost:8081/nexus/content/repositories/thirdparty/"
+grails.project.repos.myRepo.url = "http://115.28.150.164:8081/nexus/content/repositories/thirdparty/"
 grails.project.repos.myRepo.username = "admin"
 grails.project.repos.myRepo.password = "admin123"
 
